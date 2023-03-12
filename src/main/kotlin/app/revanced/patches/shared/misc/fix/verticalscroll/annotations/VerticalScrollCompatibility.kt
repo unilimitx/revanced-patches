@@ -1,4 +1,4 @@
-package app.revanced.patches.youtube.misc.fix.spoof.annotations
+package app.revanced.patches.shared.misc.fix.verticalscroll.annotations
 
 import app.revanced.patcher.annotation.Compatibility
 import app.revanced.patcher.annotation.Package
@@ -11,4 +11,4 @@ import app.revanced.patcher.annotation.Package
 )
 @Target(AnnotationTarget.CLASS)
 @Retention(AnnotationRetention.RUNTIME)
-internal annotation class ClientSpoofCompatibility
+internal annotation class VerticalScrollCompatibility
