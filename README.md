@@ -157,6 +157,15 @@ The official Patch bundle provided by ReVanced and the community.
 | `premium-icon-reddit` | Unlocks premium Reddit app icons. | all |
 </details>
 
+### [📦 `com.vanced.android.youtube`](https://play.google.com/store/apps/details?id=com.vanced.android.youtube)
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
+| `hide-ads` | Removes general ads. | all |
+</details>
+
 ### [📦 `at.gv.bmf.bmf2go`](https://play.google.com/store/apps/details?id=at.gv.bmf.bmf2go)
 <details>
 
@@ -173,14 +182,6 @@ The official Patch bundle provided by ReVanced and the community.
 |:--------:|:--------------:|:-----------------:|
 | `remove-root-detection` | Removes the check for root permissions and unlocked bootloader. | 2.5.2 |
 | `spoof-signature` | Spoofs the signature of the app. | 2.5.2 |
-</details>
-
-### [📦 `com.vanced.android.youtube`](https://play.google.com/store/apps/details?id=com.vanced.android.youtube)
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 </details>
 
 ### [📦 `com.myprog.hexedit`](https://play.google.com/store/apps/details?id=com.myprog.hexedit)
@@ -295,6 +296,14 @@ The official Patch bundle provided by ReVanced and the community.
 | `unlock-pro` | Unlocks all pro features. | all |
 </details>
 
+### [📦 `com.ithebk.expensemanager`](https://play.google.com/store/apps/details?id=com.ithebk.expensemanager)
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `unlock-pro` | Unlocks pro features. | all |
+</details>
+
 ### [📦 `ginlemon.iconpackstudio`](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
 <details>
 
@@ -317,14 +326,6 @@ The official Patch bundle provided by ReVanced and the community.
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `unlock-pro` | Unlocks all professional features. | all |
-</details>
-
-### [📦 `com.ithebk.expensemanager`](https://play.google.com/store/apps/details?id=com.ithebk.expensemanager)
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks pro features. | all |
 </details>
 
 ### [📦 `com.ticktick.task`](https://play.google.com/store/apps/details?id=com.ticktick.task)

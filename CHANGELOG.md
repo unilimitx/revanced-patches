@@ -1,3 +1,10 @@
+# [2.165.0](https://github.com/revanced/revanced-patches/compare/v2.164.0...v2.165.0) (2023-03-12)
+
+
+### Features
+
+* **youtubevanced:** `general-ads` patch ([#1693](https://github.com/revanced/revanced-patches/issues/1693)) ([0274e24](https://github.com/revanced/revanced-patches/commit/0274e24a31bef0fc7e3cd8cbaf04211ddfbfb6d2))
+
 # [2.164.0](https://github.com/revanced/revanced-patches/compare/v2.163.0...v2.164.0) (2023-02-24)
 
 
